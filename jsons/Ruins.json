@@ -6,16 +6,16 @@
 "uniques": ["Gain [50] [Culture]"], 
 "color": "#cf8ff7" 
 },
-{ "name": "squatters willing to work for you", 
-"notification": "A [Worker] has joined us!", 
-"uniques": ["Free [Worker] found in the ruins"], 
-"excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"] 
+{ "name": "squatters willing to assist you", 
+"notification": "A [Khan] has joined us!", 
+"uniques": ["Free [Khan] found in the ruins"], 
+"excludedDifficulties": ["Immortal", "Deity"] 
 }, 
 {
-"name": "squatters wishing to settle under your rule", 
-"notification": "A [Settler] has joined us!", 
-"uniques": ["Free [Settler] found in the ruins"], 
-"excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"] 
+"name": "squatters wishing to entertain under your rule", 
+"notification": "A [Great Artist] has joined us!", 
+"uniques": ["Free [Great Artist] found in the ruins"], 
+"excludedDifficulties": ["Immortal","Deity"] 
 }, 
 { 
 "name": "your exploring unit receives training", 
