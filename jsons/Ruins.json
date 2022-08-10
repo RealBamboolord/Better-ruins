@@ -3,14 +3,20 @@
 { 
 "name": "discover cultural artifacts",
 "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-"uniques": ["Gain [50] [Culture]"], 
+"uniques": ["Gain [70] [Culture]"], 
 "color": "#cf8ff7" 
 },
 { "name": "squatters willing to assist you", 
-"notification": "A [Khan] has joined us!", 
+"notification": "A [Great General] has joined us!", 
 "uniques": ["Free [Khan] found in the ruins"], 
 "excludedDifficulties": ["Immortal", "Deity"] 
-}, 
+}, s
+{
+"name": "squatters wishing to trade under your rule", 
+"notification": "A [Great Merchant] has joined us!", 
+"uniques": ["Free [Great Merchant] found in the ruins"], 
+"excludedDifficulties": ["Immortal","Deity"] 
+},
 {
 "name": "squatters wishing to entertain under your rule", 
 "notification": "A [Great Artist] has joined us!", 
@@ -48,23 +54,23 @@
 { 
 "name": "reveal nearby Barbarian camps", 
 "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!", 
-"uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"] 
+"uniques": ["Reveal up to [All] [Barbarian encampment] within a [100] tile radius"] 
 }, 
 { 
 "name": "find a crudely-drawn map", 
 "notification": "We have found a crudely-drawn map in the ruins!", 
-"uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"] 
+"uniques": ["From a randomly chosen tile [8] tiles away from the ruins, reveal tiles up to [8] tiles away with [100]% chance"] 
 }, 
 { 
 "name": "discover holy symbols", 
 "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)", 
-"uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Hidden after founding a Pantheon", "Only available after [20] turns"],
+"uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Hidden after founding a Pantheon", "Only available after [20] turns", "Gain [30] [Culture]"],
 "color": "#CDDDF4" 
 }, 
 { 
 "name": "an ancient prophecy", 
 "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)", 
-"uniques": ["Hidden when religion is disabled", "Gain enough Faith for [33]% of a Great Prophet", "Hidden after generating a Great Prophet", "Hidden before founding a Pantheon", "Only available after [20] turns"],
+"uniques": ["Hidden when religion is disabled", "Gain enough Faith for [75]% of a Great Prophet", "Hidden after generating a Great Prophet", "Hidden before founding a Pantheon", "Only available after [20] turns"],
 "color": "#CDDDF4" 
 }
 ]
