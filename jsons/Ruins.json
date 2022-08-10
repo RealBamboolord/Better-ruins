@@ -1,4 +1,4 @@
-
+Õ
 [ 
 { 
 "name": "discover cultural artifacts",
@@ -43,7 +43,7 @@
 { 
 "name": "discover a lost technology", 
 "notification": "We have discovered some lost technologies in the ruins!", 
-"uniques": ["[2] free random researchable Tech(s) from the [Ancient era]"],		
+"uniques": ["[2] free random researchable Tech(s) from the [Ancient era]", "[2] free random researchable Tech(s) from the []"],		
 "color": "#7f7fff" 
 }, 
 { 
