@@ -10,7 +10,7 @@
 "notification": "A [Great General] has joined us!", 
 "uniques": ["Free [Khan] found in the ruins"], 
 "excludedDifficulties": ["Immortal", "Deity"] 
-}, s
+},
 {
 "name": "squatters wishing to trade under your rule", 
 "notification": "A [Great Merchant] has joined us!", 
