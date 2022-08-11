@@ -15,7 +15,7 @@
 },
 { "name": "squatters willing to assist you", 
 "notification": "A [Great General] has joined us!", 
-"uniques": ["Free [Khan] found in the ruins"], 
+"uniques": ["Free [Great General] found in the ruins"], 
 "excludedDifficulties": ["Immortal", "Deity"] 
 },
 {
@@ -93,14 +93,14 @@
 {
         "name": "squatters wishing to settle under your rule",
         "notification": "A [Settler] has joined us!",
-        "weight": 1
+        "weight": 0
         "uniques": ["Free [Settler] found in the ruins"],
         "excludedDifficulties": ["Settler","Chieftain","Warlord","Prince","King","Emperor","Immortal","Deity"]
     },
 {
         "name": "squatters willing to work for you",
         "notification": "A [Worker] has joined us!",
-        "weight": 1
+        "weight": 0
         "uniques": ["Free [Worker] found in the ruins"],
         "excludedDifficulties": ["Settler","Chieftain","Warlord","Prince","King","Emperor","Immortal","Deity"]
     },
