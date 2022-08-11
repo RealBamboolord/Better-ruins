@@ -1,11 +1,11 @@
 {		
 "name": "Ancient ruins",		
-"terrainsCanBeBuiltOn": ["Land"],		
+"terrainsCanBeBuiltOn": ["Land", "Coast"],		
 "uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]	
 },	
 {		
 "name": "City ruins",		
 "terrainsCanBeBuiltOn": ["Land"],		
-"uniques": ["Unpillagable", "Unbuildable", "Will be replaced by automated workers"], 
-"civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]	
+"uniques": ["Unpillagable", "Unbuildable", "Provides a random bonus when entered"], 
+"civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War, enter it to get something useful out of it"}]	
 },
