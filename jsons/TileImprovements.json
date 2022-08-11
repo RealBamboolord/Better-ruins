@@ -6,11 +6,13 @@
 {		
 "name": "City ruins",		
 "terrainsCanBeBuiltOn": ["Land"],
-//"culture": 1,
-//"faith": 1,
-//"gold": -1,
-"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"],
-//"[+1 Gold] from [Fresh water] tiles <after discovering [Civil Service]>",
-//"[+1 Science] <after discovering [Archaeology]>" 
+"culture": 1,
+"faith": 1,
+"gold": -1,
+"uniques": ["Unpillagable", 
+//"Provides a random bonus when entered", 
+"Unbuildable",
+"[+1 Gold] from [Fresh water] tiles <after discovering [Civil Service]>",
+"[+1 Science] <after discovering [Archaeology]>" ],
 "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War, surprisingly still useful for cultural means"}]	
 },
