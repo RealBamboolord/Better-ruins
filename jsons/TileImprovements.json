@@ -1,12 +1,12 @@
 [
 {		
 "name": "Ancient ruins",		
-"terrainsCanBeBuiltOn": ["Land", "Coast"],		
+"terrainsCanBeBuiltOn": ["Land", "Water"],		
 "uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]	
 },	
 {		
 "name": "City ruins",		
-"terrainsCanBeBuiltOn": ["Land"],
+"terrainsCanBeBuiltOn": ["Land", "Lakes"],
 //"culture": 1,
 //"faith": 1,
 //"gold": -1,
