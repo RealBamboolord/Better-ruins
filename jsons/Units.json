@@ -1,5 +1,11 @@
 [
-
+{
+		"name": "Great Archaeologist",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence",
+			"Can construct [Ancient ruins]", "Unbuildable", "Great Person - [Culture]"],
+		"movement": 2
+	},
 
 
 
