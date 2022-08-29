@@ -1,0 +1,57 @@
+[
+{
+		"name": "Kremlin",
+		"culture": 3,
+		"cityStrength": 12,
+                "greatPersonPoints": {"Great Archaeologist": 2},
+		"isWonder": true,
+		"uniques": ["[+25]% City Strength from defensive buildings"],
+		"requiredTech": "Metallurgy",
+		"quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
+	},
+{
+		"name": "Museum",
+		"culture": 5,
+		"specialistSlots": {"Artist": 1, "Historician": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "The Louvre",
+		"culture": 1,
+		"happiness": 4,
+                "greatPersonPoints": {"Great Archaeologist": 2},
+		"isWonder": true,
+		"uniques": ["Free [Great Artist] appears", "Free [Great Archaelogist] appears"],
+		"requiredTech": "Archaeology",
+		"quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
+	},
+	{
+		"name": "Public School",
+		"science": 3,
+		"specialistSlots": {"Scientist": 1, "Historician": 1},
+		"requiredBuilding": "University",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Scientific Theory"
+	},
+{
+		"name": "Broadcast Tower",
+		"culture": 3,
+		"percentStatBonus": {"culture": 33},
+                "specialistSlots": {"Historician": 1},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Eiffel Tower",
+		"culture": 1,
+		"happiness": 5,
+		"greatPersonPoints": {"Great Archaelogist": 2},
+		"isWonder": true,		"uniques": ["Provides 1 happiness per 2 additional social policies adopted"],		"requiredTech": "Radio",		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"	},
