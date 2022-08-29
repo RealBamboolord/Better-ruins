@@ -1,3 +1,4 @@
+[
 {
 		"name":"Historician",
 		"culture":1,
@@ -6,3 +7,4 @@
 		"greatPersonPoints": {"Great Archaeologist":3},
 		"color": [105,98,95]
 	},
+]
