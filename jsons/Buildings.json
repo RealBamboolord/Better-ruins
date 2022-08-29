@@ -25,7 +25,7 @@
 		"happiness": 4,
                 "greatPersonPoints": {"Great Archaeologist": 2},
 		"isWonder": true,
-		"uniques": ["Free [Great Artist] appears", "Free [Great Archaelogist] appears"],
+		"uniques": ["Free [Great Artist] appears", "Free [Great Archaeologist] appears"],
 		"requiredTech": "Archaeology",
 		"quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
 	},
@@ -53,7 +53,7 @@
 		"name": "Eiffel Tower",
 		"culture": 1,
 		"happiness": 5,
-		"greatPersonPoints": {"Great Archaelogist": 2},
+		"greatPersonPoints": {"Great Archaeologist": 2},
 		"isWonder": true,
 		"uniques": ["Provides 1 happiness per 2 additional social policies adopted"],
 		"requiredTech": "Radio",
