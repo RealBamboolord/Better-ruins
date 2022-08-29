@@ -54,4 +54,9 @@
 		"culture": 1,
 		"happiness": 5,
 		"greatPersonPoints": {"Great Archaelogist": 2},
-		"isWonder": true,		"uniques": ["Provides 1 happiness per 2 additional social policies adopted"],		"requiredTech": "Radio",		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"	},
+		"isWonder": true,
+		"uniques": ["Provides 1 happiness per 2 additional social policies adopted"],
+		"requiredTech": "Radio",
+		"quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"
+	},
+]
