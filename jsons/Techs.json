@@ -1,0 +1,56 @@
+[
+{
+		"columnNumber": 9,
+		"era": "Industrial era",
+		"techCost": 1600,
+		"buildingCost": 300,
+		"wonderCost": 750,
+		"techs": [
+			{
+				"name": "Archaeology",
+				"row": 2,
+				"prerequisites": ["Navigation","Architecture"],
+                                "uniques": ["Free [Great Archaelogist] appears"],
+				"quote": "'Those who cannot remember the past are condemned to repeat it.' - George Santayana"
+			},
+                          ],
+                 },
+{
+		"columnNumber": 12,
+		"era": "Modern era",
+		"techCost": 4100
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Plastics",
+				"row": 3,
+				"prerequisites": ["Radio","Replaceable Parts"], 
+				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
+			},
+			{
+				"name": "Electronics",
+				"row": 5,
+				"prerequisites": ["Replaceable Parts", "Flight"],
+                                "uniques": ["Free [Great Archaelogist] appears"],
+ 				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
+			},
+                         ],
+                },
+{
+		"columnNumber": 14,
+		"era": "Atomic era",
+		"techCost": 6400,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+                        {
+				"name": "Computers",
+				"row": 8,
+				"prerequisites": ["Combined Arms","Radar"],
+                                "uniques": ["Free [Great Archaelogist] appears"], 
+				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
+			}
+		]
+	},
+]
