@@ -3,7 +3,7 @@
 		"name": "Great Archaeologist",
 		"unitType": "Civilian",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence",
-			"Can instantly construct a [Ancient ruins] improvement <[3] times> <after which this unit is consumed>", "Unbuildable", "Great Person - [History]"],
+			"Can instantly construct a [Ancient ruins] improvement <[3] times> <after which this unit is consumed>","Is part of Great Person group [Better Ruins]", "Unbuildable", "Great Person - [History]"],
 		"movement": 2
 	},
 
