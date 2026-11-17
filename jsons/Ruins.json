@@ -15,19 +15,19 @@
 },
 { "name": "squatters willing to assist you", 
 "notification": "A [Great General] has joined us!", 
-"uniques": ["Free [Great General] found in the ruins", "Only available <for [Military] units>"],
+"uniques": ["Free [Great General] found in the ruins"],
 "excludedDifficulties": ["Immortal", "Deity"] 
 },
 {
 "name": "squatters wishing to trade under your rule", 
 "notification": "A [Great Merchant] has joined us!", 
-"uniques": ["Free [Great Merchant] found in the ruins", "Only available <for [Military] units>"],
+"uniques": ["Free [Great Merchant] found in the ruins"],
 "excludedDifficulties": ["Immortal","Deity"] 
 },
 {
 "name": "squatters wishing to entertain under your rule", 
 "notification": "A [Great Artist] has joined us!", 
-"uniques": ["Free [Great Artist] found in the ruins", "Only available <for [Military] units>"],
+"uniques": ["Free [Great Artist] found in the ruins"],
 "excludedDifficulties": ["Immortal","Deity"] 
 }, 
 { 
