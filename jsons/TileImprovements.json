@@ -8,9 +8,9 @@
 "name": "City ruins",		
 "terrainsCanBeBuiltOn": ["Land", "Lakes"],
 "culture": 2,
-"faith": 1,
 "gold": -1,
-"uniques": ["Unpillagable", 
+"uniques": ["Unpillagable",
+"[+1 Faith] <when religion is enabled>",
 //"Provides a random bonus when entered", 
 "Unbuildable"
 "[+1 Gold] from [Fresh water] tiles <after discovering [Civil Service]>",

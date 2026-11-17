@@ -3,31 +3,31 @@
 "name": "discover cultural signs",
 "notification": "We have discovered cultural signs in the ruins! (+50 culture)",
 "weight": 4
-"uniques": ["Gain [50] [Culture]", "Only available <before founding a Pantheon>"], 
+"uniques": ["Gain [50] [Culture] <before founding a Pantheon> <when religion is enabled>", "Gain [50] [Culture] <when religion is disabled>"],
 "color": "#cf8ff7" 
 },
 { 
 "name": "discover cultural artifacts",
 "notification": "We have discovered cultural artifacts in the ruins! (+150 culture)",
 "weight": 4
-"uniques": ["Gain [150] [Culture]", "Only available <before founding a Pantheon>", "Only available <after [30] turns>"], 
+"uniques": ["Gain [150] [Culture] <before founding a Pantheon> <when religion is enabled>", "Gain [150] [Culture] <when religion is disabled>", "Only available <after [30] turns>"],
 "color": "#cf8ff7" 
 },
 { "name": "squatters willing to assist you", 
 "notification": "A [Great General] has joined us!", 
-"uniques": ["Free [Great General] found in the ruins"], 
+"uniques": ["Free [Great General] found in the ruins"],
 "excludedDifficulties": ["Immortal", "Deity"] 
 },
 {
 "name": "squatters wishing to trade under your rule", 
 "notification": "A [Great Merchant] has joined us!", 
-"uniques": ["Free [Great Merchant] found in the ruins"], 
+"uniques": ["Free [Great Merchant] found in the ruins"],
 "excludedDifficulties": ["Immortal","Deity"] 
 },
 {
 "name": "squatters wishing to entertain under your rule", 
 "notification": "A [Great Artist] has joined us!", 
-"uniques": ["Free [Great Artist] found in the ruins"], 
+"uniques": ["Free [Great Artist] found in the ruins"],
 "excludedDifficulties": ["Immortal","Deity"] 
 }, 
 { 
@@ -79,14 +79,14 @@
 "name": "discover holy symbols", 
 "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)", 
 "weight": 4
-"uniques": ["Only available when religion is enabled", "Gain [25]-[50] [Faith]", "Only available <before founding a Pantheon>", "Only available <after turn number [20]>", "Gain [30] [Culture]"],
+"uniques": ["Only available <when religion is enabled>", "Gain [25]-[50] [Faith]", "Only available <before founding a Pantheon>", "Only available <after turn number [20]>", "Gain [30] [Culture]"],
 "color": "#CDDDF4" 
 }, 
 { 
 "name": "an ancient prophecy", 
 "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)", 
 "weight": 3
-"uniques": ["Only available when religion is enabled", "Gain enough Faith for [75]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
+"uniques": ["Only available <when religion is enabled>", "Gain enough Faith for [75]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
             "Only available <after founding a Pantheon>", "Only available <after turn number [20]>"],
 "color": "#CDDDF4" 
 }
